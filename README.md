@@ -4,7 +4,7 @@
 
 **EN:** This repository contains my LeetCode solutions in **C++** and **Python**, complete with bilingual (TR/EN) logic explanations and Time/Space Complexity analyses inside each source file.
 
-**LeetCode Profile:** [leetcode.com/u/KULLANICI_ADIN](https://leetcode.com/u/KULLANICI_ADIN/)
+**LeetCode Profile:** [leetcode.com/u/s6nan](https://leetcode.com/u/s6nan/)
 
 ---
 

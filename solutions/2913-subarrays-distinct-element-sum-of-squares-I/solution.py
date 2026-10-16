@@ -30,4 +30,4 @@ class Solution:
                 c = len(seen)
                 sum += c * c
 
-        return sum
+        return sum 
