@@ -5,7 +5,7 @@
 
     Mantık (TR): İç içe iki döngüyle tüm alt dizileri gezerken, her alt dizideki eşsiz eleman
                  sayısını sabit boyutlu bir boolean dizisiyle takip edip karelerini toplamak.
-                 
+                 g
     Logic (EN):  Iterate through all subarrays using nested loops, tracking distinct elements 
                  with a fixed-size boolean array and summing the squares of their counts.
 
