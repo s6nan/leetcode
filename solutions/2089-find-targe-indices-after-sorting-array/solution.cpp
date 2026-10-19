@@ -8,7 +8,7 @@
                  sayıyoruz. Dizi sıralansaydı target elemanları tam olarak 'a' indeksinden başlayıp 
                  'a + c - 1' indeksine kadar yan yana dizileceği için bu aralığı doğrudan döndürüyoruz.
 
-    Logic (EN):  Instead of sorting the array (O(n log n)), we count how many elements are strictly 
+    Logic (EN):  Instead of sorting the array, we count how many elements are strictly 
                  less than the target (a) and how many are equal to the target (c) in a single pass. 
                  In a sorted array, the target values would occupy indices from 'a' to 'a + c - 1', 
                  so we directly generate and return this range.
