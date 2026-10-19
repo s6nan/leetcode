@@ -13,7 +13,7 @@
                  In a sorted array, the target values would occupy indices from 'a' to 'a + c - 1', 
                  so we directly generate and return this range.
 
-    Time Comp: O(n) | Space Comp: O(1) / O(k)
+    Time Comp: O(n) | Space Comp: O(1)
 */
 
 class Solution {
